@@ -1,8 +1,9 @@
 
 ## To-Do List 
-
--Beginner friendly project 
--Using html,css,js
+<br>
+    Beginner friendly project 
+<br>
+    Using html,css,js
 
 
 
